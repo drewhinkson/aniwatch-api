@@ -90,20 +90,13 @@
 
 ### Local
 
-1. Clone the repository and move into the directory.
-
-   ```bash
-   git clone https://github.com/ghoshRitesh12/aniwatch-api.git
-   cd aniwatch-api
-   ```
-
-2. Install all the dependencies.
+1. Install all the dependencies.
 
    ```bash
    npm i #or yarn install
    ```
 
-3. Start the server!
+2. Start the server!
 
    ```bash
    npm start #or yarn start
@@ -111,20 +104,7 @@
 
    Now the server should be running on [http://localhost:4000](http://localhost:4000)
 
-### Docker
 
-Docker image is available at [GitHub Container Registry](https://github.com/ghoshRitesh12/aniwatch-api/pkgs/container/aniwatch).
-
-Run the following commands to pull and run the docker image.
-
-```bash
-docker pull ghcr.io/ghoshritesh12/aniwatch
-docker run -p 4000:4000 ghcr.io/ghoshritesh12/aniwatch
-```
-
-The above command will start the server on port 4000. You can access the server at [http://localhost:4000](http://localhost:4000) and you can also change the port by changing the `-p` option to `-p <port>:4000`.
-
-You can also add the `-d` flag to run the container in detached mode.
 
 ## <span id="documentation">📚 Documentation</span>
 
