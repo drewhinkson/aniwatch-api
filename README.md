@@ -1,15 +1,3 @@
-<p align="center">
-  <a href="https://github.com/ghoshRitesh12/aniwatch-api">
-    <img 
-      src="https://github.com/ghoshRitesh12/aniwatch-api/blob/main/public/img/img1.gif?raw=true" 
-      alt="Logo" 
-      width="120" 
-      height="120"
-      decoding="async"
-      fetchpriority="high"
-    />
-  </a>
-</p>
 
 # <p align="center">Aniwatch API</p>
 
